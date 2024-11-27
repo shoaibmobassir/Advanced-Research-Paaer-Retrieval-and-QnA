@@ -9,19 +9,6 @@ The Advanced Research Paper Retrieval System is designed to efficiently search a
 - **Data Retrieval**: Utilizes Hugging Face embeddings and LLaMA-3 LLM for effective querying and search.
 - **Flexible Search**: Offers keyword-based and semantic search capabilities.
 
-## Installation
-1. **Clone the repository**:
-    ```bash
-    git clone <repository_url>
-    cd <repository_folder>
-    ```
-2. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. **Set up environment variables**:
-    Create a `.env` file and include necessary API keys and configuration details.
-
 ## Usage
 1. **Run the application**:
     ```bash
