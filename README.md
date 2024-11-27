@@ -9,20 +9,15 @@ The Advanced Research Paper Retrieval System is designed to efficiently search a
 - **Data Retrieval**: Utilizes Hugging Face embeddings and LLaMA-3 LLM for effective querying and search.
 - **Flexible Search**: Offers keyword-based and semantic search capabilities.
 
-## Usage
-1. **Run the application**:
-    ```bash
-    streamlit run app.py
-    ```
+
 2. **Search for research papers**:
    - Enter relevant keywords in the search bar.
    - View the results displayed in the app, including titles, abstracts, and publication details.
 
 ## Dependencies
-- `streamlit`: For building the web app.
 - `Hugging Face transformers`: For embedding models.
 - `pandas`, `xmltodict`: For data processing and parsing.
-- Other required Python libraries listed in `requirements.txt`.
+- Other required Python libraries.
 
 ## Example Workflow
 1. **Input**: Enter a query or keywords related to your research interest.
